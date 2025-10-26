@@ -52,8 +52,9 @@ The analysis integrates data collection, preprocessing, exploratory analysis, ma
 - Logistic Regression achieved **84 % accuracy**; Random Forest improved to **90 % (AUC = 0.91)**.  
 - Late-night usage and passive scrolling correlated positively with stress and anxiety levels.  
 - Fairness evaluation showed a **3 %** performance difference between male and female subgroups—within acceptable bias limits.
+- Insights highlight the importance of limiting late-night exposure and promoting active, positive interaction.  
+---
 
-  
 ## Team
 Developed collaboratively for IT362 – Data Science (2024), King Saud University.
 Team Members:
@@ -64,7 +65,3 @@ Team Members:
 - Doaa Aldobai
 - Razan Alkhaluqi
 
- 
-- Insights highlight the importance of limiting late-night exposure and promoting active, positive interaction.  
-
----
